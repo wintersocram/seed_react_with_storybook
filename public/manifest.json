@@ -1,0 +1,8 @@
+{
+  "short_name": "Seed React Storybook",
+  "name": "Seed React with Storybook",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
